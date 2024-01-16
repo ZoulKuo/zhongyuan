@@ -1,4 +1,4 @@
-# zhongyuanguo.github.io
+# 个人简介
 
 #
 郭中原，西南大学助理研究员，含弘博士后，武汉大学博士，香港城市大学Postdoc Research Fellow(导师香港工程科学院院士、美国国家发明家科学院院士、岭南大学副校长、IEEE Fellow、AAIA Fellow Sam Kwong教授)，中国计算机学会人工智能与模式识别专委会委员、计算机视觉专委会委员、计算机应用专委会委员，中国图形图像学会会员。
